@@ -24,6 +24,19 @@
     }
 }
 
+
+.img-fluid {
+    width: 100%;
+    height: 300px!important;
+    object-fit: cover!important;
+}
+
+
+.shopHeader {
+    text-align: center!important;
+}
+
+
 // Styling for the portfolio modals
 .portfolio-modal {
     .portfolio-modal-title {
