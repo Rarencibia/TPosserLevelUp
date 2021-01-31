@@ -10,6 +10,8 @@
     }
     .masthead-avatar {
         width: 15rem;
+        object-fit: contain;
+        border-radius: 50%;
     }
 }
 
